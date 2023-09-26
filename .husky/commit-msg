@@ -2,4 +2,3 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 pnpm commitlint --edit ""
-npx commitlint --config .commitlintrc.cjs --color --edit 
