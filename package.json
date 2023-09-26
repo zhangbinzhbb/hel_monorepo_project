@@ -33,8 +33,7 @@
   "lint-staged": {
     "*.{vue,tsx}": [
       "prettier --write",
-      "eslint --fix",
-      "pnpm run demo:coverage"
+      "eslint --fix"
     ],
     "*.{ts,js}": [
       "prettier --write",
