@@ -19,6 +19,10 @@ export default {
   },
   computed: {
     ...mapGetters(["name"]),
+
+
+
+
   },
 };
 </script>
