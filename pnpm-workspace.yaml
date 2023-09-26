@@ -1,3 +1,5 @@
 packages:
   - "main"
-  - "packages/*"
+  - "packages/**"
+  # 不包括在 test 文件夹下的
+  - "!**/test/**"

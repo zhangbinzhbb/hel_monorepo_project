@@ -13,7 +13,7 @@
 1. 克隆此项目：
 
 ```bash
-git clone https://github.com/yukiyukixing/micro-monorepo.git
+git clone 
 ```
 
 1. 进入项目目录并安装依赖：
